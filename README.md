@@ -1,13 +1,15 @@
 # " Products "
-Is a simple project contains of :
+# Is a simple project contains of :
 
-1) Kotlin : she a more important for sure😀and MVVM
-2) Navigation component : one activity contains multiple fragments instead of creating multiple activites
-3) Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object
-4) Coroutines : do some code in the background.
-5) Room Database : to save data in local database
-5) Dagger-Hilt
-6) and so more
+# 1) Kotlin : she a more important for sure😀and MVVM
+# 2) Navigation component : one activity contains multiple fragments instead of creating multiple activites
+# 3) Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object
+# 4) Coroutines : do some code in the background.
+# 5) Room Database : to save data in local database
+# 5) Dagger-Hilt
+# 6) and so more
+
+
 
 ## Screen shot
 
