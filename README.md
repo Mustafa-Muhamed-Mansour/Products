@@ -1,13 +1,17 @@
 # " Products "
-# Is a simple project contains of :
+# Is a simple project
 
-1) Kotlin : she a more important for sure😀and MVVM
-2) Navigation component : one activity contains multiple fragments instead of creating multiple activites
-3) Retrofit : making HTTP connection with the rest API and convert meal json file to Kotlin/Java object
-4) Coroutines : do some code in the background.
-5) Room Database : to save data in local database
-5) Dagger-Hilt
-6) and so more
+## Built With 🛠
+
+- [Kotlin](https://kotlinlang.org/) : First class and official programming language for Android development. 😀
+- [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) : Used to navigate between fragments.
+- [Glide](https://github.com/bumptech/glide) : Catch images and load them in imageView.
+- [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes.
+- [Retrofit](https://github.com/square/retrofit) : Used for REST api communication.
+- [Room](https://developer.android.com/topic/libraries/architecture/room) : Used to create room db and store the data.
+- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) : A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
+- [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) : For dependency injection.
+- [and so more]
 
 
 
