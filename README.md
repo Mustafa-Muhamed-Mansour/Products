@@ -11,7 +11,7 @@
 - [Room](https://developer.android.com/topic/libraries/architecture/room) : Used to create room db and store the data.
 - [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) : A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
 - [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android) : For dependency injection.
-- [and so more]
+- [and so more](https://www.google.com/search?client=firefox-b-d&q=more)
 
 
 
