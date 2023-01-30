@@ -1,9 +1,8 @@
 # " Products "
-# Is a simple project
 
 ## Built With 🛠
 
-- [Kotlin](https://kotlinlang.org/) : First class and official programming language for Android development. 😀
+- [Kotlin](https://kotlinlang.org/) : First class and official programming language for Android development.
 - [Navigation](https://developer.android.com/guide/navigation/navigation-getting-started) : Used to navigate between fragments.
 - [Glide](https://github.com/bumptech/glide) : Catch images and load them in imageView.
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes.
